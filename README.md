@@ -12,7 +12,7 @@ Kaiburr Assessment Tasks
 
 ##### Technology
 
-- **Rect**
+- **React**
 - **Spring Boot**
 - **MongoDB**
 
@@ -21,7 +21,7 @@ Kaiburr Assessment Tasks
 - **NPM**
 - **Git**
 
-##### *Deployment
+##### Deployment
 - **Netlify**
 
 ## Task 1
