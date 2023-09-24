@@ -41,7 +41,7 @@ The application should now be running on http://localhost:8080.
 Get All Servers
 Endpoint: /servers
 
-# Method: GET
+## Method: GET
 Description: Get a list of all servers.
 Sample Request: curl http://localhost:8080/servers/getServer
 
@@ -54,7 +54,7 @@ Sample Request: curl http://localhost:8080/servers/createServer
 Create a Server
 Endpoint: /servers
 
-# Method: PUT
+## Method: PUT
 
 Description: Create a new server.
 
@@ -70,20 +70,20 @@ curl -X PUT -H "Content-Type: application/json" -d '{
 }'
 http://localhost:8080/servers/createServer
 
-# Delete a Server
+### Delete a Server
 Endpoint: /servers/{id}
 Method: DELETE
 Description: Delete a server by its ID.
 Sample Request: curl -X DELETE http://localhost:8080/servers/deleteServer?id=123
 
-# Find Servers by Name
+### Find Servers by Name
 Endpoint: /servers/getServer?=name=java
 Method: GET
 Description: Find servers by name.
 Sample Request: curl http://localhost:8080/servers/getServer?name=my%20centos
 
-## Configuration
+### Configuration
 Configure MongoDB connection settings in application.properties.
 
-## Testing
+### Testing
 Unit tests are available in the src/test directory. Run tests using mvn test
