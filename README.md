@@ -5,9 +5,9 @@ Kaiburr Assessment Tasks
 
 ## Tasks Completed
 
-- [x] [Task 1. Java REST API](/task1)
-- [x] [Task 2. Swagger codegen](/spring-server-generated)
-- [x] [Task 4. WEB UI Forms](/task4)
+- [x] [Task 1. Java REST API](/Task-1)
+- [x] [Task 2. Swagger codegen](/Task-2)
+- [x] [Task 4. WEB UI Forms](/Task-4)
 
 
 ##### Technology
