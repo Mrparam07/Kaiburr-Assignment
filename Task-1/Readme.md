@@ -31,23 +31,16 @@ Follow these steps to set up and run the project on your local machine.
 ### Configuration
 Configure MongoDB connection settings in application.properties.
 
-## Endpoints and Resources
-Rest API Endpoint is mapped to `http://127.0.0.1:8080/servers/`
+### API Endpoints and Resources
 
-- PUT a server	`http://127.0.0.1:8080/servers/createServer`
-Accept "server" object in body in json format.
+| Endpoint | Method | Description |
+| --- | --- | --- |
+| `/servers/createServer` | PUT | Create a server. Accepts a "server" object in JSON format in the request body. |
+| `/servers/getServer` | GET | Retrieve a list of "server" objects. |
+| `/servers/getServer?id=<ID>` | GET | Retrieve a "server" object matching the specified ID. |
+| `/servers/getServer?name=<Name>` | GET | Retrieve a list of "server" objects matching the specified Name. |
+| `/servers/deleteServer?id=<ID>` | DELETE | Delete a "server" object matching the specified ID. |
 
-- GET servers	`http://127.0.0.1:8080/servers/getServer`
-Returns a list of "server" objects.
-
-- GET server	by ID	`http://127.0.0.1:8080/servers/getServer?id=<ID>`
-Returns a  "server" object matching with ID.
-
-- GET servers	by Name	`http://127.0.0.1:8080/servers/getServer?name=<Name>`
-Returns a list of "server" objects matching with Name.
-
-- DELETE server	`http://127.0.0.1:8080/servers/deleteServer?id=<ID>`
-Deletes a  "server" object matching with ID.
 
 ## RestController interface extends MongoRepository
 
