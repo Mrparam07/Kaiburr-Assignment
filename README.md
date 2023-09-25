@@ -34,13 +34,13 @@ Kaiburr Assessment Tasks
 
 **GOTO:**	[Task 2 Source Code and Documentation](/spring-server-generated)
 
-![SwaggerUi]((https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-2/Screenshots/SwaggerUITask2Home.png))
+![SwaggerUi](https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-2/Screenshots/SwaggerUITask2Home.png)
 
 
 ## Task 4
 
 **GOTO:**	[Task 4 Source Code and Documentation](/task4)
 
-![WebUiForms](https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-4/Screenshots/WUFHomeTask4.png)https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-4/Screenshots/WUFHomeTask4.png
+![WebUiForms](https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-4/Screenshots/WUFHomeTask4.png)
 
 
