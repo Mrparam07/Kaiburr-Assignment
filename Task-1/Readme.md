@@ -30,7 +30,7 @@ Follow these steps to set up and run the project on your local machine.
 1. Clone the repository (if you haven't already):
 
    ```shell
-   git clone https://github.com/Mrparam07/
+   git clone [https://github.com/Mrparam07/](https://github.com/Mrparam07/Kaiburr-Assignment/tree/main/Task-1)
 
 
 ### Configuration
@@ -48,7 +48,7 @@ Returns a list of "server" objects.
 - GET server	by ID	`http://127.0.0.1:8080/servers/getServer?id=<ID>`
 Returns a  "server" object matching with ID.
 
-- GET servers	by Name	`http://127.0.0.1:8080/servers/getServer?name=<Nmae>`
+- GET servers	by Name	`http://127.0.0.1:8080/servers/getServer?name=<Name>`
 Returns a list of "server" objects matching with Name.
 
 - DELETE server	`http://127.0.0.1:8080/servers/deleteServer?id=<ID>`
