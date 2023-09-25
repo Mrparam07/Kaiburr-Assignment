@@ -15,15 +15,12 @@ Follow these steps to set up and run the project on your local machine.
 
 ### Dependencies
 
+### Dependencies
+
 - **Spring Boot Starter Data MongoDB**
 - **Spring Boot Starter Web**
-- **Spring Boot Starter Tomcat**
-- **SpringFox Swagger2**
-- **SpringFox Swagger UI**
-- **Jackson Datatype ThreeTenBP**
-- **Bean Validation API Support**
-- **Spring Boot Starter Test**
-- **Jakarta XML Binding API**
+- **Project Lombok**
+- **Spring Boot Starter Test (Test Scope)**
 
 ### Installation
 
