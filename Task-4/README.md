@@ -17,7 +17,7 @@
   
 ### Operation
 
-- | Method               | Description          | Axios HTTP Method |
+| Method               | Description          | Axios HTTP Method |
 |----------------------|----------------------|-------------------|
 | `createServer()`     | Create a server      | PUT               |
 |                      |                      |                   |
