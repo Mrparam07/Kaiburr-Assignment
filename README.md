@@ -28,7 +28,7 @@ Kaiburr Assessment Tasks
 
 **GOTO:**	[Task 1 Source Code and Documentation](/task1)
 
-![GetAllServ](/screenshots/getAllServerPostManIO.PNG)
+![GetAllServ]([/screenshots/getAllServerPostManIO.PNG](https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-1/Screenshots/getServerByIDTask1.png))
 
 ## Task 2
 
