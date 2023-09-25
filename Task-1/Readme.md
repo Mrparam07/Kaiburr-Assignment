@@ -40,7 +40,7 @@ Configure MongoDB connection settings in application.properties.
 | `/servers/getServer?id=<ID>` | GET | Retrieve a "server" object matching the specified ID. |
 | `/servers/getServer?name=<Name>` | GET | Retrieve a list of "server" objects matching the specified Name. |
 | `/servers/deleteServer?id=<ID>` | DELETE | Delete a "server" object matching the specified ID. |
-
+##### Run using POSTMAN
 
 ## RestController interface extends MongoRepository
 
