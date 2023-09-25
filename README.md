@@ -26,7 +26,7 @@ Kaiburr Assessment Tasks
 
 ## Task 1
 
-**GOTO:**	[Task 1 Source Code and Documentation](/task1)
+**GOTO:**	[Task 1 Source Code and Documentation](/Task-1)
 
 ![GetAllServ](https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-1/Screenshots/getServerByIDTask1.png)
 
@@ -34,13 +34,13 @@ Kaiburr Assessment Tasks
 
 **GOTO:**	[Task 2 Source Code and Documentation](/spring-server-generated)
 
-![SwaggerUi](/screenshots/task2SwaggerDoc.PNG)
+![SwaggerUi]((https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-2/Screenshots/SwaggerUITask2Home.png))
 
 
 ## Task 4
 
 **GOTO:**	[Task 4 Source Code and Documentation](/task4)
 
-![WebUiForms](/screenshots/task4WebUIForm.PNG)
+![WebUiForms](https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-4/Screenshots/WUFHomeTask4.png)https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-4/Screenshots/WUFHomeTask4.png
 
 
