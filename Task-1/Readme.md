@@ -15,8 +15,6 @@ Follow these steps to set up and run the project on your local machine.
 
 ### Dependencies
 
-### Dependencies
-
 - **Spring Boot Starter Data MongoDB**
 - **Spring Boot Starter Web**
 - **Project Lombok**
