@@ -10,7 +10,7 @@ To interact with the API, you'll need to set up a local environment on your syst
 However, if it have access to a hosted version of the API or locally hosted on the system, the React app should work seamlessly with it. Simply ensure that the API's base URL in the React app is configured to point to the hosted API server.
 
 To interact with the API and the React app together:
-
+ 
 1. Ensure that the API is hosted and accessible.
 
 2. Update the React app's configuration to use the hosted API's base URL.
